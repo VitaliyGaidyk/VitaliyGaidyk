@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Vitaliy! otter
+Studying web-development, and interested in opensource peoducts 🔭
 <!--
 **VitaliyGaidyk/VitaliyGaidyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
