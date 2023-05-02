@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Vitaliy! 
 
- Front end developer, and interested in opensource products 🔭
+ Front-end developer, and interested in opensource products 🔭
 <!--
 **VitaliyGaidyk/VitaliyGaidyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
